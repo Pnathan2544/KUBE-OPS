@@ -221,4 +221,4 @@ If you encounter any issues or have questions:
 - [AWS SQS Documentation](https://docs.aws.amazon.com/sqs/)
 - [Kubernetes Operators](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/)
 - [Controller Runtime](https://github.com/kubernetes-sigs/controller-runtime)</content>
-<parameter name="filePath">c:\Users\Admin\kubernetes-sqs-operator\README.md
+<parameter name="filePath">

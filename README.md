@@ -1,6 +1,10 @@
 # Kubernetes SQS Operator
 
+NOTE This README.md is AI-assisted. It's actively verified and rewritten by me. De-AIzation!
+
 A Kubernetes operator that simplifies the management of AWS Simple Queue Service (SQS) queues through Kubernetes custom resources. This operator allows you to declaratively create, configure, and manage SQS queues directly from your Kubernetes cluster.
+
+
 
 ## Features
 

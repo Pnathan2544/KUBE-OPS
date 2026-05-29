@@ -48,7 +48,7 @@ The operator requires the following IAM permissions:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/kubernetes-sqs-operator.git
+   git clone https://github.com/Pnathan2544/KUBE-OPS.git
    cd kubernetes-sqs-operator
    ```
 

@@ -67,6 +67,8 @@ The operator requires the following IAM permissions:
    docker push your-registry/kubernetes-sqs-operator:v0.1.0
    ```
 
+   NOTE: Your registry? You definitely use AI to write README.md
+
 4. Deploy the CRDs and operator to your cluster (you'll need to create deployment manifests or use a tool like Kustomize/Helm)
 
 ### Local Development

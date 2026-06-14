@@ -1,10 +1,12 @@
 # Kubernetes SQS Operator
 
 NOTE This README.md is AI-assisted. It's actively verified and rewritten by me. De-AIzation!
+Plans for improvement
+1. Kubernetes permissions (RBAC manifests)
+2. Makefile 
+3. Kustomize 
 
 A Kubernetes operator that simplifies the management of AWS Simple Queue Service (SQS) queues through Kubernetes custom resources. This operator allows you to declaratively create, configure, and manage SQS queues directly from your Kubernetes cluster.
-
-
 
 ## Features
 
